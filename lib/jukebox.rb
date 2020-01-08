@@ -22,7 +22,8 @@ def list(songs)
   }
 end 
 
-def play 
+def play(songs)
+  puts ""
 end 
 
 def exit_jukebox
