@@ -18,6 +18,7 @@ end
 
 def list(songs)
   songs.each_with_object([])
+  puts
 end 
 
 def play 
