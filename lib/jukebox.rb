@@ -16,7 +16,7 @@ def help
   puts "-exit"
 end
 
-def list 
+def list(songs)
 end 
 
 def play 
