@@ -17,7 +17,7 @@ def help
 end
 
 def list(songs)
-  songs
+  songs.each_with_object([])
 end 
 
 def play 
