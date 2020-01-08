@@ -11,7 +11,7 @@ puts say_hello(users_name)
 
 def help
   puts "I accept the following commands:"
-  puts "-list"
+  puts "-help : displays this help message"
   puts "-play"
   puts "-exit"
 end
